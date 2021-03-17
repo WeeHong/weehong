@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Sticker source file-04](https://user-images.githubusercontent.com/6753022/111416937-d3ad0680-871f-11eb-8982-e8ef6fdcde24.png)
 
 - 📚 Currently learning Golang and exploring backend development
 - 💼 Working as a frontend developer which focusing in React
@@ -8,8 +9,8 @@
 - 🔎 Explore and try new technology
 
 <p align="center">
-[![WeeHong's github stats](https://github-readme-stats.vercel.app/api?username=weehong&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
-</>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=weehong&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</p>
   
 <!--
 **WeeHong/WeeHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
