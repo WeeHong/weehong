@@ -1,5 +1,6 @@
+<img width="214" alt="Sticker source file-04" src="https://user-images.githubusercontent.com/6753022/111417162-40c09c00-8720-11eb-999d-c019ea1ffb6d.png">
+
 ### Hi there 👋
-![Sticker source file-04](https://user-images.githubusercontent.com/6753022/111416937-d3ad0680-871f-11eb-8982-e8ef6fdcde24.png)
 
 - 📚 Currently learning Golang and exploring backend development
 - 💼 Working as a frontend developer which focusing in React
