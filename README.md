@@ -6,8 +6,8 @@
 - 📚 Currently learning Golang and exploring backend development
 - 💼 Working as a frontend developer which focusing in React
 - ❤️ Encourage to share and contribute the knowledge to the public
-- 🤓 Enjoy of reading programming, techonlogy and elf-help books and articles
-- 🏗️ Building something and solving algorithm question during free time
+- 🤓 Enjoy of reading programming, technology and self-help books and articles
+- 🏗️ Building something and solving algorithms question during free time
 - 🔎 Explore and try new technology
 
 <br/>
