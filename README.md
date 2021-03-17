@@ -1,6 +1,6 @@
-
 ### Hi there 👋
-
+---
+Always enforce myself to write and learn how to write an elegant and maintainable code from others
 <br/>
 
 - 📚 Currently learning Golang and exploring backend development
