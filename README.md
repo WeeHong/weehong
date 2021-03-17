@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
----
+<br/>
 
 - 📚 Currently learning Golang and exploring backend development
 - 💼 Working as a frontend developer which focusing in React
