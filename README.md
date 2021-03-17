@@ -9,7 +9,7 @@ Obsesse about software design pattern and principles.
 <br/>
 
 - 📚 Currently learning Golang and exploring backend development
-- 🤪 Obsessed about software design patterns and principles
+- 🤪 Obsessed with software design patterns and principles
 - 💼 Working as a frontend developer which focusing in React
 - ❤️ Encourage to share and contribute the knowledge to the public
 - 🤓 Enjoy of reading programming, technology and self-help books and articles
