@@ -4,10 +4,12 @@
 <code><img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></code>
 ### Hi there 👋
 ---
-Always enforce myself to write and learn how to write an elegant and maintainable code from others
+Always enforce myself to write and learn how to write an elegant and maintainable code from others.
+Obsesse about software design pattern and principles.
 <br/>
 
 - 📚 Currently learning Golang and exploring backend development
+- 🤪 Obsessed about software design patterns and principles
 - 💼 Working as a frontend developer which focusing in React
 - ❤️ Encourage to share and contribute the knowledge to the public
 - 🤓 Enjoy of reading programming, technology and self-help books and articles
