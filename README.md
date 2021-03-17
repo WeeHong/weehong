@@ -1,5 +1,4 @@
-<img width="1338" alt="Sticker source file-04" src="https://user-images.githubusercontent.com/6753022/111417198-4fa74e80-8720-11eb-871b-c7a019ad2fda.png">
-<img width="214" alt="Sticker source file-04" src="https://user-images.githubusercontent.com/6753022/111417162-40c09c00-8720-11eb-999d-c019ea1ffb6d.png">
+<img height="150" src="https://user-images.githubusercontent.com/6753022/111417245-6ea5e080-8720-11eb-887e-74a41abf315d.png" />
 
 ### Hi there 👋
 
@@ -28,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
