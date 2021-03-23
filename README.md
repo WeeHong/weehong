@@ -1,6 +1,5 @@
 <code><img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /></code>
 <code><img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></code>
 ### Hi there 👋
 ---
 Always enforce myself to write and learn how to write an elegant and maintainable code from others.
@@ -9,9 +8,9 @@ Obsesse about software design pattern and principles.
 
 - 📚 Currently learning Golang and exploring backend development
 - 🤪 Obsessed with software design patterns and principles
-- 💼 Working as a frontend developer which focusing in React
+- 💼 Working as a frontend developer which focusing on React
 - ❤️ Encourage to share and contribute the knowledge to the public
-- 🤓 Enjoy of reading programming, technology and self-help books and articles
+- 🤓 Enjoy reading programming, technology, and self-help books and articles
 - 🏗️ Building something and solving algorithms question during free time
 - 🔎 Explore and try new technology
 
