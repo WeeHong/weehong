@@ -3,8 +3,7 @@
 🟩⬜⬜⬜⬜
 ### Hi there 👋
 ---
-Always enforce myself to write and learn how to write an elegant and maintainable code from others.
-Obsesse about software design pattern and principles.
+Always enforce me to write and learn how to write an elegant and maintainable code from others. Obsessed about software design patterns and principles.
 <br/>
 
 - 📚 Currently learning Golang and exploring backend development
