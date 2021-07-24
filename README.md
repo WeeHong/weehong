@@ -13,8 +13,7 @@
   \_____| |_||_|   /_/      \____/  \__,_|  \_/  \__,_| /_/      \____/ |_____/  /_/      \_____| \___/ |_| \__,_||_| |_| \__, |
                                                                                                                            __/ |
                                                                                                                           |___/ 
-</pre>
-<pre>
+
 When humans are interested in something,
 Concentration, willpower, curiosity, the desire to learn, and exploring make everything become possible.
 Interest produces motivation, and motivation keeps them moving.
