@@ -5,6 +5,16 @@
 🟩⬜⬜⬜⬜
 ### Hi there 👋
 <pre>
+   _____   _  _         __       _                           __       _   _____       __   _____         _                      
+  / ____|_| || |_      / /      | |                         / /      | | / ____|     / /  / ____|       | |                     
+ | |    |_  __  _|    / /       | |  __ _ __   __ __ _     / /       | || (___      / /  | |  __   ___  | |  __ _  _ __    __ _ 
+ | |     _| || |_    / /    _   | | / _` |\ \ / // _` |   / /    _   | | \___ \    / /   | | |_ | / _ \ | | / _` || '_ \  / _` |
+ | |____|_  __  _|  / /    | |__| || (_| | \ V /| (_| |  / /    | |__| | ____) |  / /    | |__| || (_) || || (_| || | | || (_| |
+  \_____| |_||_|   /_/      \____/  \__,_|  \_/  \__,_| /_/      \____/ |_____/  /_/      \_____| \___/ |_| \__,_||_| |_| \__, |
+                                                                                                                           __/ |
+                                                                                                                          |___/ 
+</pre>
+<pre>
 When humans are interested in something,
 Concentration, willpower, curiosity, the desire to learn, and exploring make everything become possible.
 Interest produces motivation, and motivation keeps them moving.
