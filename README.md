@@ -7,23 +7,35 @@
 🟩⬜⬜⬜⬜
 <hr/>
 
-### Hi there 👋
 <pre>
-   _____   _  _         __       _                           __       _   _____       __   _____         _                      
-  / ____|_| || |_      / /      | |                         / /      | | / ____|     / /  / ____|       | |                     
- | |    |_  __  _|    / /       | |  __ _ __   __ __ _     / /       | || (___      / /  | |  __   ___  | |  __ _  _ __    __ _ 
- | |     _| || |_    / /    _   | | / _` |\ \ / // _` |   / /    _   | | \___ \    / /   | | |_ | / _ \ | | / _` || '_ \  / _` |
- | |____|_  __  _|  / /    | |__| || (_| | \ V /| (_| |  / /    | |__| | ____) |  / /    | |__| || (_) || || (_| || | | || (_| |
-  \_____| |_||_|   /_/      \____/  \__,_|  \_/  \__,_| /_/      \____/ |_____/  /_/      \_____| \___/ |_| \__,_||_| |_| \__, |
-                                                                                                                           __/ |
-                                                                                                                          |___/ 
-
 When humans are interested in something,
 Concentration, willpower, curiosity, the desire to learn, and exploring make everything become possible.
 Interest produces motivation, and motivation keeps them moving.
 
 - Interest is the origin -
 </pre>
+
+<table border="0">
+ <tr>
+    <td border="0">
+       <ul>
+          <li> 📚 Currently learning Spring Boot and exploring backend development</li>
+     <li>     🎮 Exploring to Unity and Graphic Design at the same time</li>
+         <li> 💼 Working as a frontend developer which focusing on React</li>
+         <li> 🤪 Obsessed with software design patterns and principles</li>
+        <li>  ❤️ Passionate to share my knowledge with others</li>
+         <li> 🤓 Enjoy reading programming, technology, and self-help books and articles</li>
+         <li> 🏗️ Building something and solving algorithms question during free time</li>
+         <li> 🔎 Explore and try new technology</li>
+       </ul>
+</td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weehong&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td>
+   </tr>
+</table>
+  
+<!--
+**WeeHong/WeeHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 📚 Currently learning Spring Boot and exploring backend development
 - 🎮 Exploring to Unity and Graphic Design at the same time
@@ -38,9 +50,6 @@ Interest produces motivation, and motivation keeps them moving.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=weehong&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
-  
-<!--
-**WeeHong/WeeHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
