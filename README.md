@@ -27,10 +27,11 @@ Interest produces motivation, and motivation keeps them moving.
 Always enforce me to write and learn how to write an elegant and maintainable code from others. Obsessed about software design patterns and principles.
 <hr/>
 
-- 📚 Currently learning Golang and exploring backend development
-- 🤪 Obsessed with software design patterns and principles
+- 📚 Currently learning Spring Boot and exploring backend development
+- 🎮 Exploring to Unity and Graphic Design at the same time
 - 💼 Working as a frontend developer which focusing on React
-- ❤️ Encourage to share and contribute the knowledge to the public
+- 🤪 Obsessed with software design patterns and principles
+- ❤️ Passionate to share my knowledge with others
 - 🤓 Enjoy reading programming, technology, and self-help books and articles
 - 🏗️ Building something and solving algorithms question during free time
 - 🔎 Explore and try new technology
