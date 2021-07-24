@@ -4,6 +4,13 @@
 🟩🟩⬜⬜⬜ &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <code><img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /></code>
 🟩⬜⬜⬜⬜
 ### Hi there 👋
+<pre>
+When humans are interested in something,
+Concentration, willpower, curiosity, the desire to learn, and exploring make everything become possible.
+Interest produces motivation, and motivation keeps them moving.
+
+- Interest is the origin -
+</pre>
 ---
 Always enforce me to write and learn how to write an elegant and maintainable code from others. Obsessed about software design patterns and principles.
 <br/>
