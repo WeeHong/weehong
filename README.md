@@ -24,8 +24,6 @@ Interest produces motivation, and motivation keeps them moving.
 
 - Interest is the origin -
 </pre>
-Always enforce me to write and learn how to write an elegant and maintainable code from others. Obsessed about software design patterns and principles.
-<hr/>
 
 - 📚 Currently learning Spring Boot and exploring backend development
 - 🎮 Exploring to Unity and Graphic Design at the same time
