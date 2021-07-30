@@ -1,12 +1,9 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me <code><img width="25" src="https://img.icons8.com/color/2x/c-sharp-logo.png" /></code>&nbsp;<code><img width="25" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" /></code>&nbsp;<code><img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>&nbsp;<code><img width="25" src="https://img.icons8.com/color/2x/golang.png" /></code>
 
-<pre>
-When humans are interested in something,
+
+> When humans are interested in something,
 Concentration, willpower, curiosity, the desire to learn, and exploring make everything become possible.
 Interest produces motivation, and motivation keeps them moving.
-
-- Interest is the origin -
-</pre>
 
 <ul>
  <li> 📚 Currently learning Spring Boot and exploring backend development</li>
