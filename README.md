@@ -15,6 +15,8 @@ Interest produces motivation, and motivation keeps them moving.
 - Interest is the origin -
 </pre>
 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">About Me
+
 <ul>
  <li> 📚 Currently learning Spring Boot and exploring backend development</li>
  <li> 🎮 Exploring to Unity and Graphic Design at the same time</li>
